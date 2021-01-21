@@ -1,4 +1,4 @@
-# Funk Out - HackHer 2020
+# Funk Out! - HackHer 2020
 This project was created  for HackHer, an all-female hackathon run by Queens University. My team and I designed an app called "Funk Out!", a virtual
 socialization app aimed at getting users out of the "funk" of quarantine and to take care of their mental health during the COVID-19 pandemic. 
 Our project consisted of two compnents: 
